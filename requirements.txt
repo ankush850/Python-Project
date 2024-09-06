@@ -1,0 +1,76 @@
+# ==============================================================================
+# Master Requirements File for Data-Analyst-Mini-Projects
+# Author: ankush850 (https://github.com/ankush850/Data-Analyst-Mini-Projects)
+# ==============================================================================
+# Install all dependencies across the entire repository with:
+#     pip install -r requirements.txt
+# ==============================================================================
+
+# --- 1. Core Data Science & Statistics ---
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# --- 2. Data Visualization ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+pywaffle>=1.1.0
+
+# --- 3. Machine Learning & Deep Learning ---
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+keras>=2.13.0
+joblib>=1.3.0
+
+# --- 4. Computer Vision & Image Processing ---
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pyqrcode>=1.2.1
+pypng>=0.20220715.0
+captcha>=0.4
+
+# --- 5. Web Scraping, Automation & APIs ---
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+validators>=0.22.0
+spotipy>=2.23.0
+yfinance>=0.2.30
+pyshorteners>=1.0.1
+speedtest-cli>=2.1.3
+pywhatkit>=5.4
+
+# --- 6. Desktop GUI & Interaction Frameworks ---
+PySide6>=6.5.0
+Kivy>=2.2.0
+pygame>=2.5.0
+pyautogui>=0.9.54
+
+# --- 7. Databases & ORM ---
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# --- 8. Audio, PDF & Speech Synthesis ---
+pyttsx3>=2.90
+PyPDF2>=3.0.0
+pywin32>=306; platform_system == "Windows"
+
+# --- 9. Cryptography & Blockchain ---
+cryptography>=41.0.0
+bitcoinaddress>=0.1.5
+
+# --- 10. Jupyter & Interactive Computing ---
+jupyter>=1.0.0
+notebook>=6.5.0
+ipython>=8.12.0
+nbconvert>=7.0.0
+
+# --- 11. Developer Utilities & Office Tools ---
+openpyxl>=3.1.0
+colorama>=0.4.6
+pyjokes>=0.6.0
+js2py>=0.74
+pyinstaller>=6.0.0
