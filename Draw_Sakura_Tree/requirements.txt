@@ -1,0 +1,2 @@
+# Python standard library only (turtle, random, time)
+jupyter>=1.0.0
