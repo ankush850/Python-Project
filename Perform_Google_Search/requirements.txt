@@ -1,0 +1,2 @@
+pywhatkit>=5.4
+jupyter>=1.0.0
