@@ -1,0 +1,1 @@
+# Python standard library only (random, time) - no external dependencies required
