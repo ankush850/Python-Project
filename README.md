@@ -18,68 +18,7 @@
 
 ---
 
-## 🏛️ Repository Architecture
 
-```mermaid
-graph TD
-    Root["📂 Python-Project (ankush850)"] --> DA["📊 Data Analysis & Machine Learning"]
-    Root --> MIS["💼 Management & Financial Systems"]
-    Root --> CV["👁️ Computer Vision & Audio Systems"]
-    Root --> GUI["🖥️ Desktop GUI Apps & Utilities"]
-    Root --> Web["🌐 Web Scraping & APIs"]
-    Root --> Game["🎮 Games & Interactive Simulations"]
-    Root --> Core["⚡ Standalone Utility Scripts"]
-
-    DA --> DA1["Cookie Cats Mobile Game A/B Test"]
-    DA --> DA2["E-Commerce Conversion A/B Test"]
-    DA --> DA3["WeRateDogs Twitter Wrangling & Analysis"]
-    DA --> DA4["TMDb Movies 10k+ Dataset EDA"]
-    DA --> DA5["Spotify 17 Artists Audio Feature EDA"]
-    DA --> DA6["COVID-19 Vaccination Time Series"]
-    DA --> DA7["Waste Segregation Deep Learning Model"]
-    DA --> DA8["Habit Tracker with Data Viz"]
-    DA --> DA9["Journal with Sentiment Analysis"]
-
-    MIS --> MIS1["ATM Banking Simulator"]
-    MIS --> MIS2["Hotel Management System"]
-    MIS --> MIS3["Blood Bank Management System"]
-    MIS --> MIS4["Student Management System"]
-    MIS --> MIS5["Grocery Store Management System"]
-    MIS --> MIS6["Personal Expense Tracker"]
-    MIS --> MIS7["Loan EMI Calculator"]
-
-    CV --> CV1["Voice-Controlled Home Automation"]
-    CV --> CV2["Digital Whiteboard Canvas"]
-    CV --> CV3["OpenCV Road & Lane Detection"]
-    CV --> CV4["Image to ASCII & Pencil Sketch"]
-    CV --> CV5["Dynamic QR Code Generator"]
-    CV --> CV6["PDF to AudioBook Speech Synthesizer"]
-    CV --> CV7["Audio & Image CAPTCHA Generator"]
-
-    GUI --> GUI1["Calculator (Tkinter & PySide6)"]
-    GUI --> GUI2["Monthly Calendar (PySide6)"]
-    GUI --> GUI3["Simple Text Editor (PySide6)"]
-    GUI --> GUI4["PostgreSQL Persistent To-Do"]
-    GUI --> GUI5["Multi-Language Translator"]
-    GUI --> GUI6["Password Strength & Generator"]
-    GUI --> GUI7["Task Scheduler & System Utilities"]
-
-    Web --> Web1["COVID-19 Worldometer Web Scraper"]
-    Web --> Web2["CoWin Vaccine Slot Tracker"]
-    Web --> Web3["Full Page Selenium Screenshot"]
-    Web --> Web4["Multi-Thread Availability Checker"]
-    Web --> Web5["Interactive Candlestick Visualizer"]
-    Web --> Web6["Live Weather Forecast Dashboard"]
-
-    Game --> Game1["Chess Game with Board Engine"]
-    Game --> Game2["Ludo Game Simulation"]
-    Game --> Game3["Tic-Tac-Toe with AI / 2-Player"]
-    Game --> Game4["Retro Snake & Pong Arcade"]
-    Game --> Game5["Slot Machine Casino Game"]
-    Game --> Game6["Virtual Plant Care Simulator"]
-```
-
----
 
 ## 📂 Project Catalog
 
